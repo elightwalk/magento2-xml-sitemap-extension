@@ -19,7 +19,7 @@ With Our Google XML Sitemap Extension for Magento 2, you can enhance your websit
 
 
 
-Know More Details About the Extension: [Magento 2 Google XML Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap.html)
+☞ Know More Details About the Extension: [Magento 2 Google XML Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap.html)
 
 
 ## Installation Guide
@@ -43,7 +43,7 @@ php bin/magento c:f
 
 ```
 
-Use Our Guide for Stepwise Installation: [Magento Social Login](https://www.elightwalk.com/docs/magento/google-xml-sitemap)
+☞ Use Our Guide for Stepwise Installation: [Magento Social Login](https://www.elightwalk.com/docs/magento/google-xml-sitemap)
 
 
 **More Elightwalk Extensions on Github Marketplace**
