@@ -19,7 +19,7 @@ With Our Google XML Sitemap Extension for Magento 2, you can enhance your websit
 
 
 
-☞ Know More Details About the Extension: [Magento 2 Google XML Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap.html)
+☞ Know More Details About the Extension: [Magento 2 Google XML Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap)
 
 
 ## Installation Guide
@@ -48,10 +48,10 @@ php bin/magento c:f
 
 **More Elightwalk Extensions on Github Marketplace**
 
-☞ [Magento SMTP](https://www.elightwalk.com/magento-smtp.html)
+☞ [Magento SMTP](https://www.elightwalk.com/magento-smtp)
 
-☞ [Magento - Social Login](https://www.elightwalk.com/magento-social-login.html)
+☞ [Magento - Social Login](https://www.elightwalk.com/magento-social-login)
 
-☞ [Magento Category Banner](https://www.elightwalk.com/magento-category-banner.html)
+☞ [Magento Category Banner](https://www.elightwalk.com/magento-category-banner)
 
-☞ [Magento Customer Login](https://www.elightwalk.com/magento-customer-login.html)
+☞ [Magento Customer Login](https://www.elightwalk.com/magento-customer-login)
